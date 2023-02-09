@@ -16,9 +16,8 @@ I'm a QA engineer. I am a meticulous problem-solver, with unwavering attention t
 - 🌱 I’m currently learning Python, AWS, Cloud testing. </br>
 - 👯 I’m looking to collaborate on Start Ups or Volunteer projects
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on
-- 
--
--
+  - Artificial Intelligence
+  - Cloud-based infrastructure and applications using technologies
 - 📝 Some of examples of my documentation
   - [Check-lists] (https://)
   - [Test cases] (https://)
