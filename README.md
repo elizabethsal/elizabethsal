@@ -18,9 +18,5 @@ I'm a QA engineer. I am a meticulous problem-solver, with unwavering attention t
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on
   - Artificial Intelligence
   - Cloud-based infrastructure and applications using technologies
-- 📝 Some of examples of my documentation
-  - [Check-lists] (https://)
-  - [Test cases] (https://)
-  - [Bug reports] (https://)
 - 📙 Check out my [Resume](https://docs.google.com/document/d/1jBUVyDYYltQxJjTfBH_k2FTHxxMRXn97rNAUcm_EncU/edit?usp=sharing)
 -->
